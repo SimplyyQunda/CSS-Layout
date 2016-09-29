@@ -1,0 +1,82 @@
+img{
+  width: 280px;
+  float: left;
+  border: solid lightgrey 2px;
+  margin-left: 10px;  
+ 
+
+ 
+}
+.image-footer div {
+  text-align:center;
+
+ 
+    
+ 
+/*   width: 20px; */
+/*   float: left */
+}
+.authors img {
+  width:21px;
+  margin:0px;
+  border-radius: 5px;
+ 
+
+   
+  
+/*   float: right; */ 
+  }
+.octocat{
+  float: left;
+  font-size:15px;
+  border-bottom: 1px solid lightgrey;
+
+ 
+}
+.image-number{
+  color:lightgrey;
+  margin-left:4%
+}
+span{
+color:grey;
+ 
+
+  
+  
+/* margin-left:30%  */
+    
+    
+}
+.image-caption {
+ color:black;
+ float: right; 
+  
+}
+a{
+  color:black;
+  text-decoration: none;
+ 
+}
+ul{
+ float: right;
+ list-style-type:none;
+ 
+ 
+} 
+.authors{
+  padding:0;
+  
+}
+.image-number::before{
+  content:"#"
+}
+/* .authors::after { */
+/*   content:url(file:///Users/daqundamagwood/Downloads/CSS%20triangle%20generator.htm); */
+}
+
+
+
+
+  
+
+
